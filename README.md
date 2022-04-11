@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on anything really, as long as it is code related I'm in and willing to help
 - 📫 You can send me an email @ jpbuny@gmail.com and I'll answer as soon as I see it!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BunyMan&theme=tokyonight)
-
 <!---
 BunyMan/BunyMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
