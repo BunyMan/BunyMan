@@ -13,7 +13,7 @@
   <h2> Languages and tools </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="PJV-C" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="PJV-C" height="37" width="40" src="https://www.gratispng.com/png-p1j7i7/">
+  <img align="center" alt="PJV-C" height="37" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
   <img align="center" alt="PJV-PY" height="40" width="40" src="https://img.icons8.com/fluency/344/python.png">
   <img align="center" alt="PJV-Bash" height="55" width="55" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
   <img align="center" alt="PJV-Nvim" height="37" width="40" src="https://symbols.getvecta.com/stencil_89/33_neovim-icon.1f7a40124e.svg" />
