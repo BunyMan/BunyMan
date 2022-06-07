@@ -5,7 +5,7 @@
 - 📫 You can send me an email @ jpbuny@gmail.com and I'll answer as soon as I see it!
 
 <div align="center">
-  <a href="https://github.com/benmaia">
+  <a href="https://github.com/bunyman">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunyman&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
