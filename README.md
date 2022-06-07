@@ -23,7 +23,6 @@
   
   <h3>  You can also contact me on: </h3>
 <div> 
-  <a href="malito:jpbuny@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://twitter.com/buggs_the_buny""_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/buggs__buny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
