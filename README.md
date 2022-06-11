@@ -5,8 +5,8 @@
 📫 You can send me an email @ jpbuny@gmail.com and I'll answer as soon as I see it!                                                                     
 
 <div align="left">
-  <a href="https://github.com/bunyman">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunyman&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/BunyMan">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunyMan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 </div>
