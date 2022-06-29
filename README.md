@@ -1,8 +1,8 @@
 👋 Hi, I’m @BunyMan,                                                                                                                                    
-👀 I’m interested in AI (although I still haven't coded anything in that regard) and cyber security                                                 
+👀 I’m a Junior Software Developer at [BERD®](https://www.berd.eu/home/). I'm interested in AI (although I still haven't coded anything in that regard) and cyber security                                                 
 🌱 Currently learning C, JavaScript, TypeScript and will start C++ and React soon. Python🐍 is my jam                                                                         
 💞️ Looking to collaborate on anything really, as long as it is code related I'm in and willing to help                                                
-📫 You can send me an email @ jpbuny@gmail.com and I'll answer as soon as I see it!                                                                     
+📫 You can send me an email @ jpbuny@gmail.com and I'll answer as soon as I see it! 
 
 <div align="left">
   <a href="https://github.com/BunyMan">
