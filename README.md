@@ -1,6 +1,6 @@
 👋 Hi, I’m @BunyMan. I'm a Junior Software Developer at [BERD®](https://www.berd.eu/home/) and a student at 42 Lisboa,                                                                                                            
 👀 I'm interested in AI (although I still haven't coded anything in that regard) and cyber security                                                 
-🌱 Currently learning C, JavaScript, TypeScript and will start C++ and React soon. Python🐍 is my jam                                                                         
+🌱 Currently learning C, JavaScript, TypeScript, SQL ORM and will start C++ and React soon. Python🐍 is my jam                                                                         
 💞️ Looking to collaborate on anything really, as long as it is code related I'm in and willing to help                                                
 📫 You can send me an email @ jpbuny@gmail.com and I'll answer as soon as I see it! 
 
@@ -21,6 +21,7 @@
   <img align="center" alt="PJV-Vim" height="37" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
   <img align="center" alt="PJV-VS " height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="PJV-Unix" height="40" width="40" src="https://img.icons8.com/color/344/unix.png">
+  <img align="center" alt="PJV-SQL" height="45" width="100" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
   
   <h2>  Also contact me on: </h2>
 <div> 
