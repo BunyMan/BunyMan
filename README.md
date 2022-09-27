@@ -4,6 +4,8 @@
 💞️ Looking to collaborate on anything really, as long as it is code related I'm in and willing to help                                                
 📫 You can send me an email @ jpbuny@gmail.com and I'll answer as soon as I see it! 
 
+<h2> Some GitHub Analytics </h2>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <div align="left">
   <a href="https://github.com/BunyMan">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunyMan&layout=compact&langs_count=7&theme=dracula"/>
