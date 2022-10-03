@@ -1,11 +1,9 @@
-👋 Hi, I’m @BunyMan. I'm a Junior Software Developer at [BERD®](https://www.berd.eu/home/), a Community Manager/Bot Developer at [Miles in The Sky](https://milesinthesky.education) and a student at [42 Lisboa](https://www.42lisboa.com/),                                                                                                            
+👋 Hi, I’m @BunyMan. I'm a Junior Software Developer at [BERD®](https://www.berd.eu/home/), a Community Manager/Bot Developer at [Miles in The Sky](https://milesinthesky.education),                                                                                                            
 👀 I'm interested in AI (although I still haven't coded anything in that regard) and cyber security.                                                 
-🌱 Currently learning C, JavaScript, TypeScript, SQL ORM and will start C++ and React soon. Python🐍 is my jam                                                                         
+🌱 Currently learning C at [42 Lisboa](https://www.42lisboa.com/), JavaScript, TypeScript, SQL ORM and will start C++ and React soon. Python🐍 is my jam                                                                         
 💞️ Looking to collaborate on anything really, as long as it is code related I'm in and willing to help                                                
 📫 You can send me an email @ jpbuny@gmail.com and I'll answer as soon as I see it! 
-<div align="center">
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
-</div>
+
 <h2> Some GitHub Analytics </h2>
 <div align="left">
   <a href="https://github.com/BunyMan">
@@ -27,7 +25,7 @@
   
   <h2>  Also contact me on: </h2>
 <div> 
-  <a href= "https://twitter.com/buggs_the_buny""_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href= "www.linkedin.com/in/buny/""_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/buggs__buny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!---
 BunyMan/BunyMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
