@@ -25,7 +25,7 @@
   
   <h2>  Also contact me on: </h2>
 <div> 
-  <a href= "www.linkedin.com/in/buny/""_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href= "https://www.linkedin.com/in/buny/""_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/buggs__buny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!---
 BunyMan/BunyMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
