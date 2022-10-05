@@ -7,7 +7,7 @@
 <h2> Some GitHub Analytics </h2>
 <div align="left">
   <a href="https://github.com/BunyMan">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunyMan&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunyMan&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 <div alig="left">
   <img src="https://komarev.com/ghpvc/?username=bunyman&label=Profile%20views&color=0e75b6&style=flat" alt="bunyman" /> 
