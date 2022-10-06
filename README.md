@@ -1,5 +1,5 @@
 👋 Hi, I’m @BunyMan. I'm a Junior Software Developer at [BERD®](https://www.berd.eu/home/), a Community Manager/Bot Developer at [Miles in The Sky](https://milesinthesky.education),                                                                                                            
-👀 I'm interested in AI (although I still haven't coded anything in that regard) and cyber security.                                                 
+👀 I'm interested in AI/Machine Learning (although I still haven't coded anything in that regard) and cyber security.                                                 
 🌱 Currently learning C at [42 Lisboa](https://www.42lisboa.com/), JavaScript, TypeScript, SQL ORM and will start C++ and React soon. Python🐍 is my jam                                                                         
 💞️ Looking to collaborate on anything really, as long as it is code related I'm in and willing to help                                                
 📫 You can send me an email @ jpbuny@gmail.com and I'll answer as soon as I see it! 
