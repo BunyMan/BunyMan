@@ -17,7 +17,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="PJV-PY" height="40" width="40" src="https://img.icons8.com/fluency/344/python.png">
   <img align="center" alt="PJV-C" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="PJV-C" height="37" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png">
+  <img align="center" alt="PJV-NJS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
+  <img align="center" alt="PJV-JAVA" height="37" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png">
   <img align="center" alt="PJV-Bash" height="55" width="55" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
   <img align="center" alt="PJV-Vim" height="37" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
   <img align="center" alt="PJV-VS " height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
