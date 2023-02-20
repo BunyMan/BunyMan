@@ -3,13 +3,14 @@
 🌱 Currently learning C at [42 Lisboa](https://www.42lisboa.com/), JavaScript, TypeScript, SQL ORM and will start C++ and React soon. Python🐍 is my jam                                                                         
 💞️ Looking to collaborate on anything really, as long as it is code related I'm in and willing to help                                                
 📫 You can send me an email @ jpbuny@gmail.com and I'll answer as soon as I see it! 
-<!--
+
 <h2> Some GitHub Analytics </h2>
-##<div align="left">
-##  <a href="https://github.com/BunyMan">
-##  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunyMan&layout=compact&langs_count=7&theme=prussian"/>
-##</div>
--->
+<div align="left">
+  <a href="https://github.com/BunyMan">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BunyMan&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunyMan&layout=compact&langs_count=7&theme=prussian"/>
+</div>
+
 <div alig="left">
   <img src="https://komarev.com/ghpvc/?username=bunyman&label=Profile%20views&color=0e75b6&style=flat" alt="bunyman" /> 
 </div>
