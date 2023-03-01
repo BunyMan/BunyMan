@@ -1,6 +1,6 @@
 👋 Hi, I’m @BunyMan. I'm a Junior Software Developer at [BERD®](https://www.berd.eu/home/) and a Community Manager/Bot Developer at [Miles in The Sky](https://milesinthesky.education),                                                                                                            
 👀 I'm interested in AI/Machine Learning (although I still haven't coded anything in that regard) and cyber security.                                                 
-🌱 Currently learning C at [42 Lisboa](https://www.42lisboa.com/), JavaScript, TypeScript, SQL ORM and will start C++ and React soon. Python🐍 is my jam                                                                         
+🌱 Currently learning C at [42 Lisboa](https://www.42lisboa.com/), TypeScript, Angular and will start C++ soon. Python🐍 is my jam                                                                         
 💞️ Looking to collaborate on anything really, as long as it is code related I'm in and willing to help                                                
 📫 You can send me an email @ jpbuny@gmail.com and I'll answer as soon as I see it! 
 
@@ -20,6 +20,8 @@
   <img align="center" alt="PJV-C" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="PJV-NJS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
   <img align="center" alt="PJV-JAVA" height="37" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png">
+  <img align="center" alt="PJV-TS" height="37.5" width="40" src="https://seekicon.com/free-icon-download/typescript_2.svg">
+  <img align="center" alt="PJV-ANG" height="55" width="50" src="https://angular.io/assets/images/logos/angular/angular.svg">
   <img align="center" alt="PJV-Bash" height="55" width="55" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
   <img align="center" alt="PJV-Vim" height="37" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
   <img align="center" alt="PJV-VS " height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
