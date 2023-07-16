@@ -1,6 +1,6 @@
 👋 Hi, I’m @BunyMan. I'm a Junior Software Developer at [BERD®](https://www.berd.eu/home/) and ex-student from [42 Lisboa](https://www.42lisboa.com/)                                                   
 👀 I'm interested in AI/Machine Learning (although I still haven't coded anything in that regard) and cyber security.                                                 
-🌱 Currently learning C++, TypeScript, Angular and will start Rust soon. Python🐍 is my jam                                                                         
+🌱 Currently learning C++ and Angular. Hoping to start Rust soon. Python🐍 is my jam                                                                         
 💞️ Looking to collaborate on anything really, as long as it is code related I'm in and willing to help                                                
 📫 You can send me an email @ jpbuny@gmail.com and I'll answer as soon as I see it! 
 
