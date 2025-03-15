@@ -17,6 +17,7 @@
   <h2> Languages and tools: </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="PJV-PY" height="40" width="40" src="https://img.icons8.com/fluency/344/python.png">
+  <img align="center" alt="PJV-PY" height="40" width="40" src="https://www.rust-lang.org/logos/rust-logo-64x64.png">
   <img align="center" alt="PJV-C" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="PJV-C" height="37" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
   <img align="center" alt="PJV-NJS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
