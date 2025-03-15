@@ -1,6 +1,6 @@
 👋 Hi, I’m @BunyMan. I'm a Software Developer at [BERD®](https://www.berd.eu/home/) and ex-student from [42 Lisboa](https://www.42lisboa.com/)                                                   
 👀 I'm interested in meta-heuristic genetic algorithms and just overall optimizaton.                                                 
-🌱 Currently parallelising mixed C++ with Python code (because speed) whilst actively learning Rust. Python🐍 is my jam though.                                                                       
+🌱 Currently parallelising mixed Rust with C++ code (because speed) whilst actively learning Ruby. Python🐍 is my jam though.                                                                       
 💞️ Would love to have time to help anyone do anything but I'm spending 12 hours a day in the office. (Maybe contact me on the weekend?)                                               
 📫 You can send me an email @ jpbuny@gmail.com and I'll answer as soon as I see it! 
 
